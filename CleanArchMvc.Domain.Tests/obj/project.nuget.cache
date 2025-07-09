@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JcTRSPJ/Olg=",
+  "dgSpecHash": "OBW7UjZ36WY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\ARQUITETURA LIMPA\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\Clean\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",

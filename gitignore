@@ -1,0 +1,132 @@
+## ========================
+## Build results
+## ========================
+bin/
+obj/
+out/
+artifacts/
+publish/
+Generated_Code/
+
+## ========================
+## User-specific files
+## ========================
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.vspscc
+*.vssscc
+
+## ========================
+## Visual Studio / VS Code
+## ========================
+.vscode/
+.vs/
+*.csproj.user
+
+## ========================
+## Test results
+## ========================
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.code-coverage
+*.vsp
+*.vspx
+
+## ========================
+## Logs / Trace
+## ========================
+*.log
+*.tlog
+*.dmp
+
+## ========================
+## ASP.NET / Frontend
+## ========================
+wwwroot/lib/
+node_modules/
+bower_components/
+*.db
+*.sdf
+*.sqlite
+
+## ========================
+## Configuration / Secrets
+## ========================
+appsettings.*.json
+secrets.json
+*.secret
+*.key
+*.pfx
+
+## ========================
+## Entity Framework
+## ========================
+Migrations/
+*.dbmdl
+*.bak
+*.mdf
+*.ldf
+
+## ========================
+## NuGet
+## ========================
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## ========================
+## Rider / JetBrains
+## ========================
+.idea/
+*.sln.iml
+
+## ========================
+## OS Specific
+## ========================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*.swp
+*.swo
+
+## ========================
+## Docker / Containers
+## ========================
+**/Dockerfile
+**/docker-compose.yml
+.dockerignore
+
+## ========================
+## Temporary files
+## ========================
+~$*
+*.tmp
+*.temp
+*.bak
+*.old
+
+## ========================
+## Others
+## ========================
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+*.ncrunch*
+*.sonarqube/
+*.stylecop
