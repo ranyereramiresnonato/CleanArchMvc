@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\ARQUITETURA LIMPA\\CleanArchMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC5AE23-0BB6-4559-ADBC-10C047E2557D}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\administrador\\desktop\\arquitetura limpa\\cleanarchmvc\\cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC5AE23-0BB6-4559-ADBC-10C047E2557D}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3739BFB6-F79D-49B0-898E-E35F4E670A29}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|c:\\users\\administrador\\desktop\\arquitetura limpa\\cleanarchmvc\\cleanarchmvc.domain.tests\\productunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3739BFB6-F79D-49B0-898E-E35F4E670A29}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|solutionrelative:cleanarchmvc.domain.tests\\productunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3739BFB6-F79D-49B0-898E-E35F4E670A29}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|c:\\users\\administrador\\desktop\\arquitetura limpa\\cleanarchmvc\\cleanarchmvc.domain.tests\\categoryunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3739BFB6-F79D-49B0-898E-E35F4E670A29}|CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj|solutionrelative:cleanarchmvc.domain.tests\\categoryunittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ARQUITETURA LIMPA\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ARQUITETURA LIMPA\\CleanArchMvc\\CleanArchMvc.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwDEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:19:10.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryUnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ARQUITETURA LIMPA\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ARQUITETURA LIMPA\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain.Tests\\CategoryUnitTest1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:54:13.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductUnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\ARQUITETURA LIMPA\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\ARQUITETURA LIMPA\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain.Tests\\ProductUnitTest1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T17:31:38.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
