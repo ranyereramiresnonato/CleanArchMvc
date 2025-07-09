@@ -1,0 +1,116 @@
+# Visual Studio 2022
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ide
+
+# Build results
+bin/
+obj/
+out/
+publish/
+artifacts/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.pidb
+*.booproj
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# Build logs
+*.log
+
+# Test Results
+TestResults/
+*.trx
+
+# xUnit / NUnit / MSTest
+*.TestResults/
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.fragment.lock.json
+
+# .NET Core / .NET 5+
+project.assets.json
+*.dotnet_*
+
+# Rider
+.idea/
+*.sln.iml
+
+# Others
+*.DS_Store
+*.apk
+*.ap_
+
+# Debug files
+*.pdb
+*.mdb
+*.opendb
+
+# IIS Express
+/.vs/
+
+# Publish Web Output
+publish/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+
+# Coverage
+coverage*.json
+coverage*.xml
+coverage*.info
+*.coverlet.*
+
+# VS Code extensions folder
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure Pipelines
+*.azure-pipelines.yml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Others
+*.orig
+
+# DotCover
+.idea/.idea.DotSettings.user
+
