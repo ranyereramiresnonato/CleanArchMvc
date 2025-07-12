@@ -10,6 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CleanArchMvc.Application\CleanArchMvc.Application.csproj" />
     <ProjectReference Include="..\CleanArchMvc.Infra.ioC\CleanArchMvc.Infra.ioC.csproj" />
   </ItemGroup>
 

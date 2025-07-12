@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanArchMcv.Application.DTOs
+namespace CleanArchMvc.Application.DTOs
 {
     public class CategoryDTO
     {

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36203.30
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMvc.Domain", "CleanArchMvc.Domain\CleanArchMvc.Domain.csproj", "{4AC5AE23-0BB6-4559-ADBC-10C047E2557D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMcv.Application", "CleanArchMcv.Application\CleanArchMcv.Application.csproj", "{2F32465B-59EA-4275-834D-6A90D04336A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMvc.Application", "CleanArchMcv.Application\CleanArchMvc.Application.csproj", "{2F32465B-59EA-4275-834D-6A90D04336A3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMvc.Infra.Data", "CleanArchMvc.Infra.Data\CleanArchMvc.Infra.Data.csproj", "{9AFF6A30-D339-4E80-AF14-C00118979F1D}"
 EndProject
